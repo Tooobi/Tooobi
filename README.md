@@ -1,7 +1,7 @@
 ### Hi there, I'm Tobi 👋
 
 
-## I'm a Husband, Father, Developer and Runner!!
+## I'm a Developer, Father and Runner!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -45,3 +45,7 @@
 
 [instagram]: https://www.instagram.com/_.t.o.o.o.b.i._/
 [linkedin]: https://www.linkedin.com/in/tobias-knop-68940428/
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
