@@ -3,7 +3,6 @@
 
 ## I'm a Developer, Father and Runner!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Learn more frontend stuff
