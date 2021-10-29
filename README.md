@@ -1,16 +1,12 @@
 ### Hi there, I'm Tobi 👋
 
 
-## I'm a Developer, Father and Runner!!
+## I'm a developer, father, runner and have a great love for cycling in all its facets.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Learn more frontend stuff
+- 🥅 2021 Goals: Learn more NextJs and Pulumi
 - ⚡ Fun fact: I love to mow the lawn
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
